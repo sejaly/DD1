@@ -1,6 +1,6 @@
-#Drag and Drop
+## Drag and Drop
 This is a simple drag and drop  web application built using HTML, CSS, and JavaScript. It allows you to drag items from a container and drop them into another container.
-#Usage
+## Usage
 To use the drag and drop web application, follow these steps:
 
 - Clone or download the repository to your local machine.
